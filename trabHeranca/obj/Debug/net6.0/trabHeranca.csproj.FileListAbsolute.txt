@@ -1,0 +1,15 @@
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\bin\Debug\net6.0\trabHeranca.exe
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\bin\Debug\net6.0\trabHeranca.deps.json
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\bin\Debug\net6.0\trabHeranca.runtimeconfig.json
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\bin\Debug\net6.0\trabHeranca.dll
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\bin\Debug\net6.0\trabHeranca.pdb
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.AssemblyInfoInputs.cache
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.AssemblyInfo.cs
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.dll
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\refint\trabHeranca.dll
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.pdb
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\trabHeranca.genruntimeconfig.cache
+D:\Visual Studio\Repos\TrabHeranca\trabHeranca\trabHeranca\obj\Debug\net6.0\ref\trabHeranca.dll
